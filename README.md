@@ -8,15 +8,9 @@
 
 ## Features
 
-<div style="display: flex; justify-content: space-between;">
-    <div style="margin-right: 10px;">
-        <img src="https://github.com/jmai321/financialapp/raw/main/budgetingfeature.gif" alt="Budgeting Feature" width="200"/>
-    </div>
-    <div style="margin-right: 10px;">
-        <img src="https://github.com/jmai321/financialapp/raw/main/chatbotfeature.gif" alt="Chatbot Feature" width="200"/>
-    </div>
-    <div>
-        <img src="https://github.com/jmai321/financialapp/raw/main/reminderfeature.gif" alt="Reminder Feature" width="200"/>
-    </div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="https://github.com/jmai321/financialapp/raw/main/budgetingfeature.gif" alt="Budgeting Feature" width="200"/>
+    <img src="https://github.com/jmai321/financialapp/raw/main/reminderfeature.gif" alt="Reminder Feature" width="200"/>
+    <img src="https://github.com/jmai321/financialapp/raw/main/chatbotfeature.gif" alt="Chatbot Feature" width="200"/>
 </div>
 
