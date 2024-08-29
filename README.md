@@ -9,8 +9,10 @@
 ## Features
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    ## Feature 1
     <img src="https://github.com/jmai321/financialapp/raw/main/budgetingfeature.gif" alt="Budgeting Feature" width="200"/>
-    <img src="https://github.com/jmai321/financialapp/raw/main/reminderfeature.gif" alt="Reminder Feature" width="200"/>
+    ## test
     <img src="https://github.com/jmai321/financialapp/raw/main/chatbotfeature.gif" alt="Chatbot Feature" width="200"/>
+    <img src="https://github.com/jmai321/financialapp/raw/main/reminderfeature.gif" alt="Reminder Feature" width="200"/>
 </div>
 
