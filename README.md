@@ -8,7 +8,7 @@
 
 ## Features
 
-<div style="display: flex; flex-wrap: wrap; gap: 30px;">
+<div style="display: flex; flex-wrap: wrap; gap: 100px;">
     <img src="https://github.com/jmai321/financialapp/raw/main/budgetingfeature.gif" alt="Budgeting Feature" width="200"/>
     <img src="https://github.com/jmai321/financialapp/raw/main/chatbotfeature.gif" alt="Chatbot Feature" width="200"/>
     <img src="https://github.com/jmai321/financialapp/raw/main/reminderfeature.gif" alt="Reminder Feature" width="200"/>
