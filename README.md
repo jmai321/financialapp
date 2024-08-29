@@ -5,3 +5,5 @@
 * Interactive Pie Charts: The app offers a graphical representation of budget categories using interactive pie charts. Users can visualize their spending distribution and quickly grasp how their income is allocated.
 * Reminders for Upcoming Bills: Users can set up reminders for upcoming payments or bills, ensuring they never miss a due date. Notifications are scheduled to alert users as the payment dates approach.
 * Chatbot Assistance: The app includes a chatbot that acts as a Financial Consultant. It helps users with financial advice, budgeting tips, and general queries related to personal finance.
+
+![](https://github.com/jmai321/reminderfeature.gif)
